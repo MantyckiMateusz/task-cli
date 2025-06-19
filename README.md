@@ -1,6 +1,8 @@
 # task-cli
 A simple command line tool to create and manage a todo list
 
+https://roadmap.sh/projects/task-tracker
+
 ## Features
 - Creating tasks, updating their status and deleting them
 - Listing all tasks or tasks with a certain status
